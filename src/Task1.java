@@ -8,6 +8,8 @@
     Запрещено использовать строки и массивы.
  */
 
+import lesson1.Main;
+
 import java.util.Scanner;
 
 public class Task1 {
