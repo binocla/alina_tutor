@@ -28,6 +28,7 @@ package lesson1;
 public class Main { // JVM не может создать класс (основной) если он не public
     public String qwe; // non-static
     protected static int b; // 0
+
     // double -> 0.0
     // boolean -> false
     // char -> '\u0000'
@@ -51,6 +52,7 @@ public class Main { // JVM не может создать класс (основ
         b = x + y;
         return x + y;
     }
+
     int sub(int x, int y) {
         // code
         b = x - y;

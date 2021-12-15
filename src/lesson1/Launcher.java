@@ -6,7 +6,7 @@ public class Launcher {
         // 1 - указываем название класса
         // 2 - название переменной
         // 3 - new Person();
-        Person p1 = new Person(); // Scanner in = new Scanner();
+        Person p1 = new Person(); // Scanner in = new Scanner(System.in);
         Person p2 = new Person();
         // p -> объект или экземпляр класса Person
         p1.age = 19; // объект (конкретный) будет иметь возраст 19

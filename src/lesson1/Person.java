@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Person {
-    String name = "This name might be changed";
+    String name = "This name might be changed"; // null
     int age;
     static int amountOfLegs;
 
